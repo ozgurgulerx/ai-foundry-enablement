@@ -30,7 +30,7 @@ thread = project_client.agents.threads.create()
 project_client.agents.messages.create(
     thread_id = thread.id,
     role      = "user",
-    content   = "What’s the weather in Seattle today?"
+    content   = "What is a blackhole?"
 )
 
 run = project_client.agents.runs.create_and_process(thread_id=thread.id,
