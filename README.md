@@ -3,8 +3,34 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-This is an entry level enablement content on Azure Open AI and Azure AI Foundry. \
-p1 - class of samples is to explain baseline model features (e.g. function calling, structured outputs, consistent outputs etc.) required to build LLM apps \
-p2 - class of samples focuses on Semantic Kernel and code can be used as skeleton code for sophisticated LLM apps with a chat UI. \
-p3 - focuses on Azure AI Foundry Agent service - a managed runtime - to build agents quickly on Azure. \
-p4 - focuses on RAG patterns and implements a baseline RAG pattern end-to-end starting with a vector index creation, chunking and embedding documents and uploading raw chunks along with vectorised outputs to the index and implementing a chat UI with Semantic Kernel for a RAG based Q&A. \
+# 🧠 AI-Foundry-Enablement
+
+This repository provides enablement assets and advanced code samples for building AI-native applications with Semantic Kernel, Azure Agent Services, and Retrieval-Augmented Generation (RAG) techniques.
+
+These resources are structured to support Foundry-style GenAI solution building and internal developer onboarding for enterprise-grade use cases.
+
+---
+
+## 🚀 What's Inside
+
+| Module                         | Description |
+|-------------------------------|-------------|
+| `semantic_kernel/`            | End-to-end chat UI, planner, and plugin integration with Semantic Kernel |
+| `agent_service/`              | Barebones implementation of Azure Agent Service integration |
+| `rag/`                        | Standard and agentic RAG pipelines using local/remote embeddings |
+
+---
+
+## 🧩 Features
+
+- ✅ Semantic Kernel + planner + plugins
+- ✅ Basic & agentic RAG using SK
+- ✅ Chat UI prototype for SK
+- ✅ Azure Agent Service base scaffold
+- ✅ Cleaned IMF dataset for experimentation
+
+---
+
+## 🗂️ Project Structure
+
+
