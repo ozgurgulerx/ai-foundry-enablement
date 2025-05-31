@@ -159,13 +159,10 @@ tiktoken==0.5.1
 pandas
 ```
 
-Pin versions to avoid runtime drift.
-
 ---
 
 ## 🧱 Roadmap
 
-- [ ] Add Streamlit or FastAPI frontend
 - [ ] Enable vector DB plug-in for RAG
 - [ ] Multi-agent orchestration via planner + tools
 - [ ] Evaluation metrics & LLM eval integration
@@ -183,7 +180,7 @@ MIT License © Ozgur Guler
 Built for AI onboarding, technical deep dives, and real-world prototyping. Inspired by:
 - [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 - [Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-services/)
-- [LangChain](https://www.langchain.com/)
+
 
 ---
 
