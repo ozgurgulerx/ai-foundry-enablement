@@ -1,4 +1,8 @@
 # 250528-AI_Foundry
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 This is an entry level enablement content on Azure Open AI and Azure AI Foundry. \
 p1 - class of samples is to explain baseline model features (e.g. function calling, structured outputs, consistent outputs etc.) required to build LLM apps \
 p2 - class of samples focuses on Semantic Kernel and code can be used as skeleton code for sophisticated LLM apps with a chat UI. \
